@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewKotlin</string>
+    <string name="title">Recyler View on Kotlin</string>
+</resources>
